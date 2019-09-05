@@ -5,7 +5,7 @@ import cv2
 import random
 
 datadir="/home/ahmii/Desktop/DS"
-cata=["Cat"]
+cata=["Cat","Dog"]
 
 resize_img=50
 training_data=[]
